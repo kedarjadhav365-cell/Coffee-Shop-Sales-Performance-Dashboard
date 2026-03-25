@@ -16,3 +16,4 @@ An interactive Excel dashboard analyzing 50,000+ sales transactions across multi
 ## Dashboard preview
 - <a href= "https://github.com/kedarjadhav365-cell/Coffee-Shop-Sales-Performance-Dashboard/blob/main/Screenshot%202026-03-25%20124329.png"> Dashboard </a>
 ## Dashboard
+<img width="1462" height="778" alt="Dash" src="https://github.com/user-attachments/assets/15de36e6-209d-4c0d-8fac-2ec79c46cdeb" />
