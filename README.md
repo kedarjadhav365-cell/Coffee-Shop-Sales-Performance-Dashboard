@@ -25,7 +25,7 @@ An interactive Excel dashboard analyzing 50,000+ sales transactions across multi
 
 3.**Location Leade**r: Astoria is the most consistent store; Lower Manhattan spikes specifically during office commute hours.
 
-4**.Price Sweet Spot**: Most customers prefer products priced between $2.50 and $4.00, showing high sensitivity to mid-range pricing.
+4**Price Sweet Spot**: Most customers prefer products priced between $2.50 and $4.00, showing high sensitivity to mid-range pricing.
 
 5.**Growth Trend**: Average daily sales increased in February, indicating rising customer loyalty despite fewer calendar days.
 
