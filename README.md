@@ -20,10 +20,15 @@ An interactive Excel dashboard analyzing 50,000+ sales transactions across multi
 
 ## Key Insights
 1.**The Morning Spike**: Sales triple between 8:00 AM and 10:00 AM. This is the "Golden Window" for maximum staffing.
+
 2.**Top Sellers**: Coffee and Tea drive the most volume, while Bakery items (Scones/Biscotti) are the best revenue-boosting "add-ons."
+
 3.**Location Leade**r: Astoria is the most consistent store; Lower Manhattan spikes specifically during office commute hours.
+
 4**.Price Sweet Spot**: Most customers prefer products priced between $2.50 and $4.00, showing high sensitivity to mid-range pricing.
+
 5.**Growth Trend**: Average daily sales increased in February, indicating rising customer loyalty despite fewer calendar days.
+
 6.**PM Opportunity**: Sales dip after 2:00 PM, revealing a perfect chance for "Afternoon Happy Hour" promotions.
 
 ## Conclusion
