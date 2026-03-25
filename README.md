@@ -15,3 +15,4 @@ An interactive Excel dashboard analyzing 50,000+ sales transactions across multi
 **What is the distribution of product price points, and how does it correlate with transaction frequency?**
 ## Dashboard preview
 - <a href= "https://github.com/kedarjadhav365-cell/Coffee-Shop-Sales-Performance-Dashboard/blob/main/Screenshot%202026-03-25%20124329.png"> Dashboard </a>
+## Dashboard
